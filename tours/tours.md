@@ -4,8 +4,8 @@ changed: '2024-06-09T13:27:38+00:00'
 cityid: Tours
 cityname: Tours
 coordinates:
-- 47.383333
 - 0.683333
+- 47.383333
 description: Tours public transport connections
 gtfs:
   stcp:
