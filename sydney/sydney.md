@@ -1,6 +1,6 @@
 ---
 added: '2012-05-22T16:40:23.119259'
-changed: '2020-03-10T10:46:38.336178'
+changed: '2025-01-10T10:46:38.336178'
 cityid: sydney
 cityname: Sydney
 coordinates:
