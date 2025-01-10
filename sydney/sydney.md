@@ -11,7 +11,7 @@ gtfs:
   sydney:
     sha256: 795e6f38012da8c0d56eee3372d593be91569c19215fed9a355b8e007253fceb
     url: https://tfnsw-opendata.s3-ap-southeast-2.amazonaws.com/historical_gtfs/complete_gtfs/2025/2025-01.zip
-hidden: true
+hidden: false
 options:
   estimatedMaxCalculateCalls: 1020000
 tf_location_ids:
